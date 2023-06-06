@@ -6,3 +6,8 @@ descriptions of the techniques within each category. Drawing upon a comprehensiv
 critical evaluation and propose potential avenues for future research. Additionally, we have developed an web-based survey browser for
 convenient exploration and examination of our created classification framework, as well as the associated scholarly articles.
 
+## web-based survey browser
+![avatar](/browser.jpg)
+
+##  Survey Taxonomy
+![avatar](/taxonomy.jpg)
