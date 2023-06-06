@@ -1,0 +1,487 @@
+.tooltip {
+	z-index: 2000;
+}
+
+.tooltip-inner {
+	max-width: 300px;
+}
+
+body.modal-open {
+	margin-right: 0px;
+}
+
+.modal-wide {
+	width: 50%;
+	min-width: 700px;
+}
+
+.modal-max {
+	width: 95%;
+}
+
+.modal-medium {
+	min-width: 600px;
+}
+
+#topAlert {
+	margin: 0;
+}
+
+.custom-navbar {
+	margin-bottom: 10px;
+	min-height: 73px;
+}
+
+.custom-navbar-container {
+	background-color: rgba(100, 100, 100, 0.07);
+}
+
+.navbar-header-container {
+	padding: 5px 15px;
+}
+
+.navbar-brand-title {
+	font-size: 22px;
+	font-weight: bold;
+	color: grey;
+	text-decoration: none;
+}
+
+.navbar-link, .navbar-link:hover, .navbar-link:visited {
+	color: grey;
+	text-decoration: none;
+}
+
+.navbar-header-container {
+	color: grey;
+}
+
+.navbar-nav > li > a {
+    padding-top: 0px;
+	padding-bottom: 0px;
+	line-height: 40px;
+    /* line-height: 80px; */
+}
+
+.sidebar-container {
+	padding-left: 15px;
+	margin-top: 5px;
+}
+
+.content-wrapper {
+	width: 100%;
+}
+
+.content-wrapper > tbody {
+	vertical-align: top;
+}
+
+.sidebar-fixed {
+	min-width: 290px;
+	max-width: 290px;
+	width: 290px;
+}
+
+.row-container {
+	padding: 0 15px;
+}
+
+.footer > p {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.small-padding {
+	padding: 5px !important;
+}
+
+.small-bottom-margin {
+	margin-bottom: 5px;
+}
+
+.small-top-margin {
+	margin-top: 5px;
+}
+		
+.no-top-margin {
+	margin-top: 0px;
+} 
+
+.no-bottom-margin {
+	margin-bottom: 0px;
+}
+
+.large-top-margin {
+	margin-top: 15px;
+}
+
+.large-bottom-margin {
+	margin-bottom: 15px;
+}
+
+.vertical-delimiter {
+	padding-top: 15px;
+}
+
+#categoriesList {
+	/*max-height: 500px;*/
+	overflow-y: auto;
+}
+
+#entriesContainer {
+	/*max-height: 810px;*/
+	padding-left: 40px;
+	min-height: 110px;
+	overflow-y: auto;
+}
+
+.entries-count-label {
+	margin-bottom: 5px;
+}
+
+#displayedEntriesCount {
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+	line-height: 32px;
+}
+
+#filtersPanel > .panel-body {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.category-entries-container {
+	display: inline-block;
+}
+
+.panel-label {
+	margin-top: 0px;
+}
+
+.nested-categories-list {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.nested-categories-list .category-title {
+	font-weight: normal;
+}
+
+.nested-categories-list > .list-group-item {
+	padding: 10px;
+	border-width: 1px !important;
+}
+
+.nested-categories-list > .list-group-item:first-child {
+	border-radius: 4px !important;
+}
+
+.category-entry {
+	margin-bottom: 2px;
+}
+
+button.category-entry.active, button.category-entry:active, .noUi-connect {
+	background-color: #e1ecf9;
+	border-color: #c4ceda;
+}
+
+.category-entry > .glyphicon {
+	font-size: 16px;
+}
+
+.category-entry > .content-entry-label {
+	display: inline-block;
+	font-size: 14px;
+	/* height: 19px; */
+	/* width: 16px; */
+	position: relative;
+	top: 1px;
+	line-height: 1;
+}
+
+.category-entry > .content-entry-icon {
+	display: inline-block;
+	/* height: 22px; */
+	/* width: 16px; */
+	position: relative;
+	right: 2px;
+}
+
+.category-entry-span {
+	display: inline-block;
+	padding: 6px 12px;
+	border: 1px solid lightgrey;
+	border-radius: 4px;
+	vertical-align: middle;
+}
+//
+#entryDetailsThumbnail {
+	border: 1px solid lightgrey;
+}
+
+#summaryTableContainer th, #summaryTableContainer td {
+	padding: 2px !important;
+	text-align: center;
+}
+
+#summaryTableContainer td.category-cell.category-present {
+	background-color: #c4ceda;;
+}
+
+/* The tricks for link text trimming based on https://stackoverflow.com/a/39149634 */
+
+#summaryTableContainer td.technique-cell {
+	font-size: 12px;
+	text-align: left;
+	position: relative;
+}
+
+#summaryTableContainer td.technique-cell::before {
+	content: "";
+	display: inline-block;
+}
+
+#summaryTableContainer td.technique-cell > .summary-entry-link-wrapper {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	position: absolute;
+  	left: 0;
+  	right: 0;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.search-clear {
+	position: absolute;
+	right: 5px;
+	color: lightgrey;
+	top: 8px;
+	bottom: 0px;
+	font-size: 14px;
+	cursor: pointer;
+}
+
+#searchField {
+	width: 100%;
+}
+
+.content-entry {
+	width: 320px;
+	height: 180px;
+	text-align: center; /* 水平居中 */
+	display: inline-block;
+	margin: 5px 10px;
+	padding: 5px;
+	border: 1px solid lightgrey;
+	border-radius: 4px;
+	overflow: hidden;
+	word-wrap: break-word;
+	box-shadow: 4px 4px 10px 1px darkgrey;
+	cursor: pointer;
+}
+
+.media-object{
+	margin-top: 13px;
+	margin-left: 10px;
+}
+
+.content-entry:hover {
+	box-shadow: 2px 2px 5px 1px gold, 4px 4px 10px darkgrey;
+}
+
+.content-entry.active {
+	box-shadow: 2px 2px 5px 1px yellow, 4px 4px 10px darkgrey;
+}
+
+.entry-details-title {
+	font-size: 24px;
+}
+
+.media > div.pull-left {
+	max-width: 630px;
+	max-height: 480px;
+	padding-top:10px;
+	display: contents;
+	float: left; 
+	margin-left:40px;
+
+}
+
+.about-link, .about-link:hover, .about-link:visited {
+	color: black;
+	text-decoration: none;
+}
+
+#inputEntryCategories {
+	max-height: 200px;
+	overflow-y: auto;
+}
+
+#totalTechniquesCount {
+	font-weight: bold;
+}
+
+#statsContainer {
+	/*margin: 5px 5px 10px 5px;*/
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 500px;
+	max-width: 500px;
+	width: 500px;
+	max-height: 640px;
+	overflow-y: auto;
+}
+
+.diagram-category-container {
+	margin: 5px;
+	padding: 5px;
+	border: 1px solid lightgrey;
+	border-radius: 4px;
+}
+
+.diagram-category-row > .diagram-category-title {
+	font-weight: bold;
+}
+
+.diagram-row {
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+.diagram-category-row {
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	border-bottom: 1px solid lightgrey;
+}
+
+.diagram-bar {
+	display: inline-block;
+	/*overflow: hidden;*/
+	border-radius: 4px;
+	text-align: right;
+	vertical-align: middle;
+}
+
+.bar-value {
+	margin-right: 2px;
+	font-weight: bold;
+}
+
+.bar-title {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.diagram-row-content {
+	width: 100%;
+}
+
+.diagram-row-content > .bar-title.bar-icon-placeholder {
+	width: 34px;
+	height: 32px;
+}
+
+.bar-icon {
+	padding: 4px 8px;
+	border: 1px solid lightgrey;
+	border-radius: 4px;
+}
+
+.bar-icon > .content-entry-icon {
+	display: inline-block;
+	height: 22px;
+	width: 16px;
+	position: relative;
+	right: 2px;
+}
+
+.bar-icon > .glyphicon {
+	font-size: 16px;
+}
+
+.time-filter-container {
+	margin: 5px 8px; 
+}
+
+.time-filter-label-container {
+	position: relative;
+	height: 20px;
+}
+
+.time-filter-min, .time-filter-max {
+	font-weight: bold;
+}
+
+.time-filter-min {
+	position: absolute;
+	left: 0px;
+}
+
+.time-filter-max {
+	position: absolute;
+	right: 0px;
+}
+
+.noUi-horizontal .noUi-handle {
+	width: 18px;
+	left: -9px;
+}
+
+.noUi-handle:after, .noUi-handle:before {
+	left: 6px;
+}
+
+.noUi-handle:after {
+	left: 9px;
+}
+
+.noUi-handle, .noUi-dragable {
+	cursor: ew-resize;
+}
+
+hr {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.reset-category-filter {
+	margin-left: 5px;
+	padding: 1px 3px !important;
+	line-height: 1.1;
+}
+
+#summaryTableContainer {
+	overflow-x: auto;
+}
+
+#timeChart {
+	min-height: 50px;
+	max-height: 50px;
+	height: 50px;
+	margin-top: 10px;
+}
+
+.time-chart-total {
+	fill: white;
+	stroke: grey;
+	stroke-width: 1px;
+}
+
+.time-chart-current {
+	fill: #c4ceda;
+	stroke: none;
+}
+
+.time-chart-gap {
+	font-size: 10px;
+	font-weight: bold;
+	pointer-events: none;
+}

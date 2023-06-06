@@ -1,0 +1,164 @@
+[
+  {
+    "type": "category",
+    "title": "Data",
+    "description": "Data type",
+    "entries": [
+        {
+          "type": "category-entry",
+          "title": "image",
+          "description": "Image based data",
+          "content": "Image",
+          "bgc":"rgba(255, 224, 129, 0.5)"
+        },
+        {
+          "type": "category-entry",
+          "title": "audio",
+          "description": "Audio based data",
+          "content": "Audio",
+          "bgc":"rgba(255, 224, 129, 0.5)"
+        },
+        {
+          "type": "category-entry",
+          "title": "text",
+          "description": "Text based data",
+          "content": "Text",
+          "bgc":"rgba(255, 224, 129, 0.5)"
+        },
+        {
+          "type": "category-entry",
+          "title": "sensor",
+          "description": "Sensor based data",
+          "content": "Sensor",
+          "bgc":"rgba(255, 224, 129, 0.5)"
+        }
+    ]
+},
+  {
+    "type": "category",
+    "title": "Visualization",
+    "description": "Visualization techniques",
+    "entries": [
+        {
+          "type": "category-entry",
+          "title": "3d",
+          "description": "3D based visualization",
+          "content": "<span class=\"content-entry-icon\" style=\"margin-top:-1px; margin-left:-6px;\"><img id='image' src =\"img/3D_00.png\" width=\"65\" height=\"65\"></span>",
+          "bgc":"rgba(102, 255, 102, 0.3)"
+        },
+        {
+          "type": "category-entry",
+          "title": "chart",
+          "description": "Chart based visualization",
+          "content": "<span class=\"content-entry-icon\" style=\"margin-top:-1px; margin-left:-6px;\"><img id='image' src =\"img/chart_00.png\" width=\"65\" height=\"65\"></span>",
+          "bgc":"rgba(102, 255, 102, 0.2)"
+        },
+        {
+          "type": "category-entry",
+          "title": "graph",
+          "description": "Graph based visualization",
+          "content": "<span class=\"content-entry-icon\" style=\"margin-top:-1px; margin-left:-6px;\"><img id='image' src =\"img/graph_00.png\" width=\"65\" height=\"65\"></span>",
+          "bgc":"rgba(102, 255, 102, 0.3)"
+        },
+        {
+          "type": "category-entry",
+          "title": "sankey",
+          "description": "Sankey based visualization",
+          "content": "<span class=\"content-entry-icon\" style=\"margin-top:-1px; margin-left:-6px;\"><img id='image' src =\"img/sankey_00.png\" width=\"65\" height=\"65\"></span>",
+          "bgc":"rgba(102, 255, 102, 0.3)"
+        },
+        {
+          "type": "category-entry",
+          "title": "scatter",
+          "description": "Scatter based visualization",
+          "content": "<span class=\"content-entry-icon\" style=\"margin-top:-1px; margin-left:-6px;\"><img id='image' src =\"img/scatter_00.png\" width=\"65\" height=\"65\"></span>",
+          "bgc":"rgba(102, 255, 102, 0.3)"
+        },
+        {
+          "type": "category-entry",
+          "title": "timeline",
+          "description": "Timeline based visualization",
+          "content": "<span class=\"content-entry-icon\" style=\"margin-top:-1px; margin-left:-6px;\"><img id='image' src =\"img/timeline_00.png\" width=\"65\" height=\"65\"></span>",
+          "bgc":"rgba(102, 255, 102, 0.3)"
+        }
+    ]
+  },
+  {
+    "type": "category",
+    "title": "Interaction",
+    "description": "Interaction techniques",
+    "entries": [
+        {
+          "type": "category-entry",
+          "title": "emphasis",
+          "description": "Emphasis based interaction",
+          "content": "<span class=\"content-entry-icon\" style=\"margin-top:-1px; margin-left:-6px;\"><img id='image' src =\"img/emphasis_00.png\" width=\"65\" height=\"65\"></span>",
+          "bgc":"rgba(255, 0, 0, 0.2)"
+        },
+        {
+          "type": "category-entry",
+          "title": "filter",
+          "description": "Emphasis based interaction",
+          "content": "<span class=\"content-entry-icon\" style=\"margin-top:-1px; margin-left:-6px;\"><img id='image' src =\"img/filter_00.png\" width=\"65\" height=\"65\"></span>",
+          "bgc":"rgba(255, 0, 0, 0.2)"
+        },
+        {
+          "type": "category-entry",
+          "title": "scaling",
+          "description": "Emphasis based interaction",
+          "content": "<span class=\"content-entry-icon\" style=\"margin-top:-1px; margin-left:-6px;\"><img id='image' src =\"img/scaling_00.png\" width=\"65\" height=\"65\"></span>",
+          "bgc":"rgba(255, 0, 0, 0.2)"
+        },
+        {
+          "type": "category-entry",
+          "title": "sketch",
+          "description": "Emphasis based interaction",
+          "content": "<span class=\"content-entry-icon\" style=\"margin-top:-1px; margin-left:-6px;\"><img id='image' src =\"img/sketch_00.png\" width=\"65\" height=\"65\"></span>",
+          "bgc":"rgba(255, 0, 0, 0.2)"
+        }
+    ]
+  },
+
+  {
+    "type": "category",
+    "title": "task",
+    "description": "Visual analysis tasks",
+    "entries": [
+        {
+          "type": "category-entry",
+          "title": "summarization",
+          "description": "Summarization based tasks",
+          "content": "SUM",
+          "bgc":"rgba(199, 220, 255)"
+        },
+        {
+          "type": "category-entry",
+          "title": "understanding",
+          "description": "Understanding based tasks",
+          "content": "UD",
+          "bgc":"rgba(199, 220, 255)"
+        },
+        {
+          "type": "category-entry",
+          "title": "anomaly",
+          "description": "Anomaly based tasks",
+          "content": "Anomaly",
+          "bgc":"rgba(199, 220, 255)"
+        },
+        {
+          "type": "category-entry",
+          "title": "augmentation",
+          "description": "Augmentation based tasks",
+          "content": "AUG",
+          "bgc":"rgba(199, 220, 255)"
+        },
+        {
+          "type": "category-entry",
+          "title": "editing",
+          "description": "Editing based tasks",
+          "content": "Editing",
+          "bgc":"rgba(199, 220, 255)"
+        }
+    ]
+  }
+]

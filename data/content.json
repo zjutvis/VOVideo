@@ -1,0 +1,2479 @@
+[
+  {
+    "title": "Action-based multifield video visualization",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2008",
+    "id": "Botchen2008",
+    "authors": "Botchen, Ralf P.; Bachthaler, Sven; Schick, Fabian; Chen, Min; Mori, Greg; Weiskopf, Daniel; Ertl, Thomas",
+    "url": "https://doi.org/10.1109/TVCG.2018.2889834",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Viz-A-Vis: Toward visualizing video through computer vision",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2008",
+    "id": "RomeroMSummetJStaskoJ2008",
+    "authors": "Romero M, Summet J, Stasko J, et al.",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "graph",
+      "timeline",
+      "filter",
+      "scaling",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Effects of video placement and spatial context presentation on path reconstruction tasks with contextualized videos",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2008",
+    "id": "Wang2008",
+    "authors": "Wang, Yi; Bowman, Doug; Krum, David; Coelho, Enylton; Smith-Jackson, Tonya; Bailey, David; Peck, Sarah; Anand, Swethan; Kennedy, Trevor; Abdrazakov, Yernar",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Fast forward with your VCR: Visualizing single-video viewing statistics for navigation and sharing",
+    "venue": "Proceedings of the graphics interface",
+    "year": "2008",
+    "id": "Al-Hajri2014",
+    "authors": "Al-Hajri, Abir; Fong, Matthew; Miller, Gregor; Fels, Sidney",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "What's next?: Emergent storytelling from video collections",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2009",
+    "id": "Shen2009",
+    "authors": "Shen, Edward Yu Té; Lieberman, Henry; Davenport, Glorianna",
+    "url": "https://dl.acm.org/doi/abs/10.1145/1518701.1518825",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "editing",
+      "editing"
+    ]
+  },
+  {
+    "title": "A point cloud based multi-view stereo algorithm for free-viewpoint video",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2009",
+    "id": "Liu2009",
+    "authors": "Liu, Yebin; Dai, Qionghai; Xu, Wenli",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "3D",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Talkminer: a lecture webcast search engine",
+    "venue": "Proceedings of the ACM international conference on multimedia",
+    "year": "2010",
+    "id": "adcock2010talkminer",
+    "authors": "Adcock, John; Cooper, Matthew; Denoue, Laurent; Pirsiavash, Hamed; Rowe, Lawrence A",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Chronicle: capture, exploration, and playback of document workflow histories",
+    "venue": "Proceedings of the ACM symposium on user interface software and technology",
+    "year": "2010",
+    "id": "grossman2010chronicle",
+    "authors": "Grossman, Tovi; Matejka, Justin; Fitzmaurice, George",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Selection and 3D visualization of video key frames",
+    "venue": "Proceedings of the IEEE international conference on systems, man and cybernetics",
+    "year": "2010",
+    "id": "Xu2010",
+    "authors": "Xu, Qing; Wang, Pengcheng; Long, Bin; Sbert, Mateu; Feixas, Miquel; Scopigno, Riccardo",
+    "url": "https://doi.org/10.1109/VAST.2014.7042478",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "3D",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Watching, thinking, reacting: A human-centered framework for movie content analysis",
+    "venue": "International Journal of Digital Content Technology and its Applications",
+    "year": "2010",
+    "id": "liu2010watching",
+    "authors": "Liu, Anan; Yang, Zhaoxuan",
+    "url": "https://doi.org/10.1109/VAST.2014.7042478",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "filter",
+      "editing",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Video visualization for snooker skill training",
+    "venue": "Computer Graphics Forum",
+    "year": "2010",
+    "id": "Hoferlin2010",
+    "authors": "Höferlin, M.; Grundy, E.; Borgo, R.; Weiskopf, D.; Chen, M.; Griffiths, I. W.; Griffiths, W.",
+    "url": "https://doi.org/10.1109/TVCG.2018.2889834",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Affective visualization and retrieval for music video",
+    "venue": "IEEE Transactions on Multimedia",
+    "year": "2010",
+    "id": "Zhang2010",
+    "authors": "Zhang, Shiliang; Huang, Qingming; Jiang, Shuqiang; Gao, Wen; Tian, Qi",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Contour-based strike zone shaping and visualization in broadcast baseball video: Providing reference for pitch location positioning and strike/ball judgment",
+    "venue": "Multimedia Tools and Applications",
+    "year": "2010",
+    "id": "Chen2010",
+    "authors": "Chen, Hua Tsung; Tsai, Wen Jiin; Lee, Suh Yin",
+    "url": "https://link.springer.com/article/10.1007/s11042-009-0321-9",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "filter",
+      "editing",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Modulating video credibility via visualization of quality evaluations",
+    "venue": "Proceedings of the workshop on information credibility",
+    "year": "2010",
+    "id": "Diakopoulos2010",
+    "authors": "Diakopoulos, Nicholas; Essa, Irfan",
+    "url": "https://dl.acm.org/doi/abs/10.1145/1772938.1772953",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Hierarchical event selection for video storyboards with a case study on snooker video visualization",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2011",
+    "id": "Parry2011",
+    "authors": "Parry, Matthew L.; Legg, Philip A.; Chung, David H.S.; Griffiths, Iwan W.; Chen, Min",
+    "url": "https://doi.org/10.1109/TVCG.2016.2598463",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Game, shot and match: Event-based indexing of tennis",
+    "venue": "Proceedings of the international workshop on content-based multimedia indexing",
+    "year": "2011",
+    "id": "Connaghan2011",
+    "authors": "Connaghan, Damien; Kelly, Philip; O'Connor, Noel E.",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "editing"
+    ]
+  },
+  {
+    "title": "AniPaint: Interactive painterly animation from video",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2011",
+    "id": "ODonovan2012",
+    "authors": "O'Donovan, Peter; Hertzmann, Aaron",
+    "url": "https://ieeexplore.ieee.org/abstract/document/5728804/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "editing"
+    ]
+  },
+  {
+    "title": "Video painting based on a stabilized time-varying flow field",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2011",
+    "id": "Field2012",
+    "authors": "Field, Time-varying Flow; Yoon, Jong-chul; Lee, In-kwon; Kang, Henry",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "editing"
+    ]
+  },
+  {
+    "title": "Video painting with space-time-varying style parameters",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2011",
+    "id": "Kagaya2011",
+    "authors": "Kagaya, Mizuki; Brendel, William; Deng, Qingqing; Kesterson, Todd; Todorovic, Sinisa; Neill, Patrick J.; Zhang, Eugene",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "editing"
+    ]
+  },
+  {
+    "title": "Video stereolization: Combining motion analysis with user interaction",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2011",
+    "id": "Liao2011",
+    "authors": "Liao, Miao; Gao, Jizhou; Yang, Ruigang; Gong, Minglun",
+    "url": "https://ieeexplore.ieee.org/abstract/document/5928340/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Tracking web video topics: Discovery, visualization, and monitoring",
+    "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "year": "2011",
+    "id": "Cao2011",
+    "authors": "Cao, Juan; Ngo, Chong Wah; Zhang, Yong Dong; Li, Jin Tao",
+    "url": "#N/A",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "graph",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Visual storylines: Semantic visualization of movie sequence",
+    "venue": "Computers & Graphics",
+    "year": "2012",
+    "id": "Chen2012a",
+    "authors": "Chen, Tao; Lu, Aidong; Hu, Shi Min",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Evaluation of fast-forward video visualization",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2012",
+    "id": "Hoferlin2012",
+    "authors": "Höferlin, Markus; Kurzhals, Kuno; Höferlin, Benjamin; Heidemann, Gunther; Weiskopf, Daniel",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Compact video synopsis via global spatiotemporal optimization",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2012",
+    "id": "Nie2013",
+    "authors": "Nie, Yongwei; Xiao, Chunxia; Sun, Hanqiu; Li, Ping",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "summarization"
+    ]
+  },
+  {
+    "title": "AlVis: Situation awareness in the surveillance of road tunnels",
+    "venue": "Proceedings of the IEEE conference on visual analytics science and technology",
+    "year": "2012",
+    "id": "Piringer2012",
+    "authors": "Piringer, Harald; Buchetics, Matthias; Benedik, Rudolf",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "timeline",
+      "filter",
+      "scaling",
+      "anomaly"
+    ]
+  },
+  {
+    "title": "Video data visualization system: Semantic classification and personalization",
+    "venue": "International Journal of Computer Graphics & Animation",
+    "year": "2012",
+    "id": "To2008",
+    "authors": "To, Arriers",
+    "url": "https://doi.org/10.1145/3544548.3581266",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "graph",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Effectiveness of a blind spot visualization system with a video camera for safe lane changes",
+    "venue": "Proceedings of the SICE annual conference",
+    "year": "2012",
+    "id": "Matsubara2012",
+    "authors": "Matsubara, Fumihiro; Itoh, Makoto; Inagaki, Toshiyuki",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Sketch-based annotation and visualization in video authoring",
+    "venue": "IEEE Transactions on Multimedia",
+    "year": "2012",
+    "id": "Ma2012",
+    "authors": "Ma, Cui Xia; Liu, Yong Jin; Wang, Hong An; Teng, Dong Xing; Dai, Guo Zhong",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sketch",
+      "editing"
+    ]
+  },
+  {
+    "title": "Ball tracking and 3D trajectory approximation with applications to tactics analysis from single-camera volleyball sequences",
+    "venue": "Multimedia Tools and Applications",
+    "year": "2012",
+    "id": "Chen2012",
+    "authors": "Chen, Hua Tsung; Tsai, Wen Jiin; Lee, Suh Yin; Yu, Jen Yu",
+    "url": "https://doi.org/10.1109/TVCG.2021.3049419",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Fisheye video correction",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2012",
+    "id": "Wei2012",
+    "authors": "Wei, Jin; Li, Chen Feng; Hu, Shi Min; Martin, Ralph R.; Tai, Chiew Lan",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "A Novel Video Summarization Based on Mining the Story-Structure and Semantic Relations Among Concept Entities",
+    "venue": "IEEE Transactions on Multimedia",
+    "year": "2012",
+    "id": "chen2009novel",
+    "authors": "Bo-Wei Chen; Jia-Ching Wang; Jhing-Fa Wang",
+    "url": "https://doi.org/10.1145/3290605.3300311",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "editing"
+    ]
+  },
+  {
+    "title": "Toward visualization for games: Theory, design space, and patterns",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2012",
+    "id": "Bowman2012",
+    "authors": "Bowman, Brian; Elmqvist, Niklas; Jankun-Kelly, T. J.",
+    "url": "https://ieeexplore.ieee.org/abstract/document/6165280/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "graph"
+    ]
+  },
+  {
+    "title": "Video snapshots: Creating high-quality images from video clips",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2012",
+    "id": "Sunkavalli2012",
+    "authors": "Sunkavalli, Kalyan; Joshi, Neel; Kang, Sing Bing; Cohen, Michael F.; Pfister, Hanspeter",
+    "url": "https://ieeexplore.ieee.org/abstract/document/6165275/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Notevideo: Facilitating navigation of blackboard-style lecture videos",
+    "venue": "Proceedings of the SIGCHI conference on human factors in computing systems",
+    "year": "2013",
+    "id": "monserrat2013notevideo",
+    "authors": "Monserrat, Toni-Jan Keith Palma; Zhao, Shengdong; McGee, Kevin; Pandey, Anshul Vikram",
+    "url": "https://dl.acm.org/doi/abs/10.1145/2470654.2466147",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Democut: generating concise instructional videos for physical demonstrations",
+    "venue": "Proceedings of the ACM symposium on user interface software and technology",
+    "year": "2013",
+    "id": "chi2013democut",
+    "authors": "Chi, Pei-Yu; Liu, Joyce; Linder, Jason; Dontcheva, Mira; Li, Wilmot; Hartmann, Bjoern",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "editing",
+      "editing"
+    ]
+  },
+  {
+    "title": "Interactive exploration of surveillance video through action shot summarization and trajectory visualization",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2013",
+    "id": "Meghdadi2013",
+    "authors": "Meghdadi, Amir H.; Irani, Pourang",
+    "url": "https://ieeexplore.ieee.org/abstract/document/6634090/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "timeline",
+      "3D",
+      "filter",
+      "scaling",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Interactive schematic summaries for faceted exploration of surveillance video",
+    "venue": "IEEE Transactions on Multimedia",
+    "year": "2013",
+    "id": "Hoferlin2013",
+    "authors": "Hoferlin, Markus; Hoferlin, Benjamin; Heidemann, Gunther; Weiskopf, Daniel",
+    "url": "#N/A",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Transformation of an uncertain video search pipeline to a sketch-based visual analytics loop",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2013",
+    "id": "Legg2013",
+    "authors": "Legg, Philip A.; Chung, David H.S.; Parry, Matthew L.; Bown, Rhodri; Jones, Mark W.; Griffiths, Iwan W.; Chen, Min",
+    "url": "https://ieeexplore.ieee.org/abstract/document/6634165/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "sankey",
+      "filter",
+      "sketch",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Space-time visual analytics of eye-tracking data for dynamic stimuli",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2013",
+    "id": "Kurzhals2013",
+    "authors": "Kurzhals, Kuno; Weiskopf, Daniel",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "3D",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Content-aware video retargeting using object-preserving warping",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2013",
+    "id": "Lin2013",
+    "authors": "Lin, Shih Syun; Lin, Chao Hung; Yeh, I. Cheng; Chang, Shu Huai; Yeh, Chih Kuo; Lee, Tong Yee",
+    "url": "https://ieeexplore.ieee.org/abstract/document/6506841/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "SoccerStories: A kick-off for visual soccer analysis",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2013",
+    "id": "Perin2013",
+    "authors": "Perin, Charles; Vuillemot, Romain; Fekete, Jean Daniel",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "graph",
+      "filter",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Video-based crowd synthesis",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2013",
+    "id": "Flagg2013",
+    "authors": "Flagg, Matthew; Rehg, James M.",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "editing",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Water surface modeling from a single viewpoint video",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2013",
+    "id": "Li2013",
+    "authors": "Li, Chuan; Pickup, David; Saunders, Thomas; Cosker, Darren; Marshall, David; Hall, Peter; Willis, Philip",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "3D",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Data-driven interaction techniques for improving navigation of educational videos",
+    "venue": "Proceedings of the annual ACM symposium on user interface software and technology",
+    "year": "2014",
+    "id": "Kim2014a",
+    "authors": "Kim, Juho; Guo, Philip J.; Cai, Carrie J.; Li, Shang Wen; Gajos, Krzysztof Z.; Miller, Robert C.",
+    "url": "https://dl.acm.org/doi/abs/10.1145/2642918.2647389",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "timeline",
+      "emphasis",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Crowdsourcing step-by-step information extraction to enhance existing how-to videos",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2014",
+    "id": "Kim2014",
+    "authors": "Kim, Juho; Nguyen, Phu; Weir, Sarah; Guo, Philip J.; Miller, Robert C.; Gajos, Krzysztof Z.",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "timeline",
+      "editing",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Visual exploration of sparse traffic trajectory data",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2014",
+    "id": "Wang2014",
+    "authors": "Wang, Zuchao; Ye, Tangzhi; Lu, Min; Yuan, Xiaoru; Qu, Huamin; Yuan, Jacky; Wu, Qianliang",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "timeline",
+      "filter",
+      "scaling",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Baseball4D: A tool for baseball game reconstruction & visualization",
+    "venue": "Proceedings of the IEEE conference on visual analytics science and technology",
+    "year": "2014",
+    "id": "Dietrich2015",
+    "authors": "Dietrich, Carlos; Koop, David; Vo, Huy T.; Silva, Claudio T.",
+    "url": "https://doi.org/10.1109/TVCG.2021.3049419",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "filter",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Video lens: Rapid playback and exploration of large video collections and associated metadata",
+    "venue": "Proceedings of the ACM symposium on user interface software and technology",
+    "year": "2014",
+    "id": "Matejka2014",
+    "authors": "Matejka, Justin; Grossman, Tovi; Fitzmaurice, George",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "scatter",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Visualization of personal history for video navigation",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2014",
+    "id": "Al-Hajri2014a",
+    "authors": "Al-Hajri, Abir; Miller, Gregor; Fong, Matthew; Fels, Sidney",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "A visualization framework for team sports captured using multiple static cameras",
+    "venue": "Computer Vision and Image Understanding",
+    "year": "2014",
+    "id": "Hamid2014",
+    "authors": "Hamid, Raffay; Kumar, Ramkrishan; Hodgins, Jessica; Essa, Irfan",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "filter",
+      "editing",
+      "summarization"
+    ]
+  },
+  {
+    "title": "TenniVis: Visualization for tennis match analysis",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2014",
+    "id": "Polk2014",
+    "authors": "Polk, Tom; Yang, Jing; Hu, Yueqi; Zhao, Ye",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "graph",
+      "filter",
+      "scaling",
+      "emphasis",
+      "editing",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Video digests: A browsable, skimmable format for informational lecture videos",
+    "venue": "Proceedings of the annual ACM symposium on user interface software and technology",
+    "year": "2014",
+    "id": "Pavel2014",
+    "authors": "Pavel, Amy; Reed, Colorado; Hartmann, Björn; Agrawala, Maneesh",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Content-driven multi-modal techniques for non-linear video navigation",
+    "venue": "Proceedings of the international conference on intelligent user interfaces",
+    "year": "2015",
+    "id": "Yadav2015",
+    "authors": "Yadav, Kuldeep; Shrivastava, Kundan; Prasad, S. Mohana; Arsikere, Harish; Patil, Sonal; Kumar, Ranjeet; Deshmukh, Om",
+    "url": "https://dl.acm.org/doi/abs/10.1145/2678025.2701408",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Visualization-based active learning for video annotation",
+    "venue": "IEEE Transactions on Multimedia",
+    "year": "2015",
+    "id": "Liao2016",
+    "authors": "Liao, Hongsen; Chen, Li; Song, Yibo; Ming, Hao",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "scatter",
+      "filter",
+      "sketch",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Visualization and analysis of head movement and gaze data for immersive video in head-mounted displays",
+    "venue": "Proceedings of the workshop on eye tracking and visualization",
+    "year": "2015",
+    "id": "Lowe2015",
+    "authors": "Löwe, Thomas; Stengel, Michael; Emmy-Charlotte, Förster; Grogorick, Steve; Magnor, Marcus",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "timeline",
+      "filter",
+      "scaling",
+      "emphasis",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Gaze visualization for immersive video",
+    "venue": "Proceedings of the eye tracking and visualization: Foundations, techniques, and applications.",
+    "year": "2015",
+    "id": "Lowe2017",
+    "authors": "Löwe, Thomas; Stengel, Michael; Förster, Emmy Charlotte; Grogorick, Steve; Magnor, Marcus",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "MMToC: A multimodal method for table of content creation in educational videos",
+    "venue": "Proceedings of the ACM multimedia conference",
+    "year": "2015",
+    "id": "Biswas2015",
+    "authors": "Biswas, Arijit; Gandhi, Ankit; Deshmukh, Om",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "SceneSkim: Searching and browsing movies using synchronized captions, scripts and plot summaries",
+    "venue": "Proceedings of the annual ACM symposium on user interface software and technology",
+    "year": "2015",
+    "id": "Pavel2015",
+    "authors": "Pavel, Amy; Goldman, Dan B.; Hartmann, Björn; Agrawala, Maneesh",
+    "url": "https://doi.org/10.1109/TVCG.2021.3049419",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "PeakVizor: Visual analytics of peaks in video clickstreams from massive open online courses",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2015",
+    "id": "Chen2016",
+    "authors": "Chen, Qing; Chen, Yuanzhe; Liu, Dongyu; Shi, Conglei; Wu, Yingcai; Qu, Huamin",
+    "url": "https://doi.org/10.1109/VAST.2014.7042478",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "sensor",
+      "chart",
+      "timeline",
+      "scatter",
+      "filter"
+    ]
+  },
+  {
+    "title": "Traffic situation visualization based on video composition",
+    "venue": "Computers and Graphics (Pergamon)",
+    "year": "2015",
+    "id": "Hsieh2016",
+    "authors": "Hsieh, Cheng You; Wang, Yu Shuen",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Gaze stripes: Image-based visualization of eye tracking data",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2015",
+    "id": "Kurzhals2016",
+    "authors": "Kurzhals, Kuno; Hlawatsch, Marcel; Heimerl, Florian; Burch, Michael; Ertl, Thomas; Weiskopf, Daniel",
+    "url": "https://ieeexplore.ieee.org/abstract/document/7194851/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "chart",
+      "timeline",
+      "filter",
+      "scaling",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Glyph-based video visualization for semen analysis",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2015",
+    "id": "Duffy2015",
+    "authors": "Duffy, Brian; Thiyagalingam, Jeyarajan; Walton, Simon; Smith, David J.; Trefethen, Anne; Kirkman-Brown, Jackson C.; Gaffney, Eamonn A.; Chen, Min",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "filter",
+      "scaling",
+      "summarization"
+    ]
+  },
+  {
+    "title": "MotionFlow: Visual abstraction and aggregation of sequential patterns in human motion tracking data",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2015",
+    "id": "Jang2016",
+    "authors": "Jang, Sujin; Elmqvist, Niklas; Ramani, Karthik",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "graph",
+      "filter",
+      "scaling",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Temporal video filtering and exposure control for perceptual motion blur",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2015",
+    "id": "Stengel2015",
+    "authors": "Stengel, Michael; Bauszat, Pablo; Eisemann, Martin; Eisemann, Elmar; Magnor, Marcus",
+    "url": "https://ieeexplore.ieee.org/abstract/document/6977984/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "VideoForest: Interactive visual summarization of video streams based on danmu data",
+    "venue": "Proceedings of the SIGGRAPH ASIA symposium on visualization",
+    "year": "2016",
+    "id": "Sun2016",
+    "authors": "Sun, Zhida; Sun, Mingfei; Cao, Nan; Ma, Xiaojuan",
+    "url": "#N/A",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "graph",
+      "timeline",
+      "filter",
+      "scaling",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Visual movie analytics",
+    "venue": "IEEE Transactions on Multimedia",
+    "year": "2016",
+    "id": "Kurzhals2016a",
+    "authors": "Kurzhals, Kuno; John, Markus; Heimerl, Florian; Kuznecov, Paul; Weiskopf, Daniel",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "timeline",
+      "filter",
+      "scaling",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Visual analytics of political networks from face-tracking of news video",
+    "venue": "IEEE Transactions on Multimedia",
+    "year": "2016",
+    "id": "Renoust2016",
+    "authors": "Renoust, Benjamin; Le, Duy Dinh; Satoh, Shin'Ichi",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "graph",
+      "timeline",
+      "filter",
+      "scaling",
+      "understanding"
+    ]
+  },
+  {
+    "title": "ViTBAT: Video tracking and behavior annotation tool",
+    "venue": "Proceedings of the IEEE international conference on advanced video and signal based surveillance",
+    "year": "2016",
+    "id": "Biresaw2016",
+    "authors": "Biresaw, Tewodros A.; Nawaz, Tahir; Ferryman, James; Dell, Anthony I.",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "editing",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "In-situ visualization of pedaling forces on cycling training videos",
+    "venue": "Proceedings of the IEEE international conference on systems, man, and cybernetics",
+    "year": "2016",
+    "id": "Kaplan2017",
+    "authors": "Kaplan, Oral; Yamamoto, Goshiro; Yoshitake, Yasuhide; Taketomi, Takafumi; Sandor, Christian; Kato, Hirokazu",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Visualizing and analyzing video content with interactive scalable maps",
+    "venue": "IEEE Transactions on Multimedia",
+    "year": "2016",
+    "id": "Ma2016a",
+    "authors": "Ma, Cui Xia; Liu, Yong Jin; Zhao, Guozhen; Wang, Hong An",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "graph",
+      "sketch",
+      "summarization"
+    ]
+  },
+  {
+    "title": "VideoMap: An interactive and scalable visualization for exploring video content",
+    "venue": "Computational Visual Media",
+    "year": "2016",
+    "id": "Ma2016",
+    "authors": "Ma, Cui Xia; Guo, Yang; Wang, Hong An",
+    "url": "https://doi.org/10.1109/TVCG.2018.2889834",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "graph",
+      "sketch",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Creating video summarization from emotion perspective",
+    "venue": "Proceedings of the IEEE international conference on signal processing",
+    "year": "2016",
+    "id": "Lan2016",
+    "authors": "Lan, Yijie; Wei, Shikui; Liu, Ruoyu; Zhao, Yao",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Looking into saliency model via space-time visualization",
+    "venue": "IEEE Transactions on Multimedia",
+    "year": "2016",
+    "id": "Liang2016",
+    "authors": "Liang, Haoran; Liang, Ronghua; Sun, Guodao",
+    "url": "https://doi.org/10.1109/TVCG.2021.3049419",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "timeline",
+      "3D",
+      "editing",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Providing video annotations in multimedia containers for visualization and research",
+    "venue": "Proceedings of the IEEE winter conference on applications of computer vision",
+    "year": "2017",
+    "id": "Schoning2017",
+    "authors": "Schoning, Julius; Faion, Patrick; Heidemann, Gunther; Krumnack, Ulf",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "VisMOOC: Visualizing video clickstream data from massive open online courses",
+    "venue": "Proceedings of the IEEE pacific visualization symposium",
+    "year": "2017",
+    "id": "Shi2015",
+    "authors": "Shi, Conglei",
+    "url": "https://ieeexplore.ieee.org/abstract/document/7156373/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "timeline",
+      "filter",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Extrafoveal video extension for an immersive viewing experience",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2017",
+    "id": "Turban2017",
+    "authors": "Turban, Laura; Urban, Fabrice; Guillotel, Philippe",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "ITTVis: Interactive visualization of table tennis data",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2017",
+    "id": "Wu2018",
+    "authors": "Wu, Yingcai; Lan, Ji; Shu, Xinhuan; Ji, Chenyang; Zhao, Kejian; Wang, Jiachen; Zhang, Hui",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8017600/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "filter",
+      "scaling",
+      "emphasis",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Live user-guided intrinsic video for static scenes",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2017",
+    "id": "Meka2017",
+    "authors": "Meka, Abhimitra; Fox, Gereon; Zollhofer, Michael; Richardt, Christian; Theobalt, Christian",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "filter",
+      "sketch",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Presentation of 3D scenes through video example",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2017",
+    "id": "Baldacci2017",
+    "authors": "Baldacci, Andrea; Ganovelli, Fabio; Corsini, Massimiliano; Scopigno, Roberto",
+    "url": "https://doi.org/10.1109/TVCG.2021.3049419",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "editing"
+    ]
+  },
+  {
+    "title": "Multimodal analysis of video collections: Visual exploration of presentation techniques in TED Talks",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2018",
+    "id": "Wu2020",
+    "authors": "Wu, Aoyu; Qu, Huamin",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8585103/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "timeline",
+      "scatter",
+      "sankey",
+      "filter",
+      "scaling",
+      "emphasis",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Heterogeneous information fusion and visualization for a large-scale intelligent video surveillance system",
+    "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+    "year": "2018",
+    "id": "Fan2017",
+    "authors": "Fan, Ching Tang; Wang, Yuan Kai; Huang, Cai Ren",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "filter",
+      "anomaly"
+    ]
+  },
+  {
+    "title": "Bring it to the pitch: Combining video and movement data to enhance team sport analysis",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2018",
+    "id": "Stein2018",
+    "authors": "Stein, Manuel; Janetzko, Halldor; Lamprecht, Andreas; Breitkreutz, Thorsten; Zimmermann, Philipp; Goldlücke, Bastian; Schreck, Tobias; Andrienko, Gennady; Grossniklaus, Michael; Keim, Daniel A.",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "CoCo: Collaboration coach for understanding team dynamics during video conferencing",
+    "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+    "year": "2018",
+    "id": "Samrose2018",
+    "authors": "Samrose, Samiha; Zhao, Ru; White, Jeffery; Li, Vivian; Nova, Luis; Lu, Yichen; Ali, Mohammad Rafayet; Hoque, Mohammed Ehsan",
+    "url": "https://doi.org/10.1109/TVCG.2014.2298016",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "chart",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Detection thresholds for rotation and translation gains in 360° video-based telepresence systems",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2018",
+    "id": "Zhang2018",
+    "authors": "Zhang, Jingxin; Langbehn, Eike; Krupke, Dennis; Katzakis, Nicholas; Steinicke, Frank",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "ForVizor: Visualizing spatio-temporal team formations in soccer",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2018",
+    "id": "Wu2019",
+    "authors": "Wu, Yingcai; Xie, Xiao; Wang, Jiachen; Deng, Dazhen; Liang, Hongye; Zhang, Hui; Cheng, Shoubin; Chen, Wei",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "graph",
+      "timeline",
+      "filter",
+      "editing",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Outdoor markerless motion capture with sparse handheld video cameras",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2018",
+    "id": "Wang2018",
+    "authors": "Wang, Yangang; Liu, Yebin; Tong, Xin; Dai, Qionghai; Tan, Ping",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "understanding"
+    ]
+  },
+  {
+    "title": "Real-time video stylization using object flows",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2018",
+    "id": "Lu2018",
+    "authors": "Lu, Cewu; Xiao, Yao; Tang, Chi Keung",
+    "url": "https://ieeexplore.ieee.org/abstract/document/7920337/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "editing"
+    ]
+  },
+  {
+    "title": "Semantic-driven generation of hyperlapse from 360 degree video",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2018",
+    "id": "Lai2018",
+    "authors": "Lai, Wei Sheng; Huang, Yujia; Joshi, Neel; Buehler, Christopher; Yang, Ming Hsuan; Kang, Sing Bing",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "summarization"
+    ]
+  },
+  {
+    "title": "ViSeq: Visual analytics of learning sequence in massive open online courses",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2018",
+    "id": "Chen2020",
+    "authors": "Chen, Qing; Yue, Xuanwu; Plantaz, Xavier; Chen, Yuanzhe; Shi, Conglei; Pong, Ting Chuen; Qu, Huamin",
+    "url": "https://doi.org/10.1109/VAST.2014.7042478",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "chart",
+      "graph",
+      "timeline",
+      "scatter",
+      "filter",
+      "understanding"
+    ]
+  },
+  {
+    "title": "EmoCo: Visual analysis of emotion coherence in presentation videos",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2019",
+    "id": "Zeng2020",
+    "authors": "Zeng, Haipeng; Wang, Xingbo; Wu, Aoyu; Wang, Yong; Li, Quan; Endert, Alex; Qu, Huamin",
+    "url": "https://ieeexplore.ieee.org/abstract/document/7920337/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "text",
+      "timeline",
+      "scatter",
+      "sankey",
+      "filter",
+      "scaling",
+      "emphasis",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Vian: A visual annotation tool for film analysis",
+    "venue": "Computer Graphics Forum",
+    "year": "2019",
+    "id": "Halter2019",
+    "authors": "Halter, Gaudenz; Ballester-Ripoll, Rafael; Flueckiger, Barbara; Pajarola, Renato",
+    "url": "#N/A",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "editing",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Visual exploration of topics in multimedia news corpora",
+    "venue": "Proceedings of the international conference on information visualisation",
+    "year": "2019",
+    "id": "John2019",
+    "authors": "John, Markus; Kurzhals, Kuno; Ertl, Thomas",
+    "url": "https://doi.org/10.1109/TVCG.2021.3134814",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "chart",
+      "timeline",
+      "scatter",
+      "filter",
+      "scaling",
+      "understanding"
+    ]
+  },
+  {
+    "title": "HistoryTracker: Minimizing human interactions in baseball game annotation",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2019",
+    "id": "piazentin2019historytracker",
+    "authors": "Piazentin Ono, Jorge; Gjoka, Arvi; Salamon, Justin; Dietrich, Carlos; Silva, Claudio T",
+    "url": "https://doi.org/10.1109/VAST.2014.7042478",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "editing",
+      "editing"
+    ]
+  },
+  {
+    "title": "B-script: Transcript-based B-roll video editing with recommendations",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2019",
+    "id": "Huber2019",
+    "authors": "Huber, Bernd; Shin, Hijung Valentina; Russell, Bryan; Wang, Oliver; Mysore, Gautham J.",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "editing",
+      "editing"
+    ]
+  },
+  {
+    "title": "VideoWhiz: Non-linear interactive overviews for recipe videos",
+    "venue": "Proceedings of the graphics interface",
+    "year": "2019",
+    "id": "Nawhal2019",
+    "authors": "Nawhal, Megha; Lang, Jacqueline B.; Mori, Greg; Chilana, Parmit K.",
+    "url": "https://doi.org/10.1109/TVCG.2021.3049419",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "filter",
+      "sketch",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Motion browser: Visualizing and understanding complex upper limb movement under obstetrical brachial plexus injuries",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2019",
+    "id": "Chan2020",
+    "authors": "Chan, Gromit Yeuk Yin; Nonato, Luis Gustavo; Chu, Alice; Raghavan, Preeti; Aluru, Viswanath; Silva, Cláudio T.",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8809920/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "timeline",
+      "editing",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Replay: Contextually presenting learning videos across software applications",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2019",
+    "id": "AilieFraser2019",
+    "authors": "Ailie Fraser, C.; Ngoon, Tricia J.; Dontcheva, Mira; Klemmer, Scott",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "PopUp: Reconstructing 3D video using particle filtering to aggregate crowd responses",
+    "venue": "Proceedings of the international conference on intelligent user interfaces",
+    "year": "2019",
+    "id": "Song2019",
+    "authors": "Song, Jean Y.; Lemmer, Stephan J.; Liu, Michael Xieyang; Yan, Shiyan; Kim, Juho; Corso, Jason J.; Lasecki, Walter S.",
+    "url": "https://doi.org/10.1109/TVCG.2021.3049419",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "VisTA: Integrating machine intelligence with visualization to support the investigation of think-aloud sessions",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2019",
+    "id": "Fan2020",
+    "authors": "Fan, Mingming; Wu, Ke; Zhao, Jian; Li, Yue; Wei, Winter; Truong, Khai N.",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "text",
+      "timeline",
+      "filter",
+      "anomaly"
+    ]
+  },
+  {
+    "title": "Constructing spaces and times for tactical analysis in football",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2019",
+    "id": "Andrienko2021",
+    "authors": "Andrienko, Gennady; Andrienko, Natalia; Anzer, Gabriel; Bauer, Pascal; Budziak, Guido; Fuchs, Georg; Hecker, Dirk; Weber, Hendrik; Wrobel, Stefan",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "filter",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Motion parallax for 360◦ RGBD video",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2019",
+    "id": "AnaSerranoIncheolKimZhiliChenStephenDiVerdiDiegoGutierrezAaronHertzmann2019",
+    "authors": "Ana Serrano, Incheol Kim, Zhili Chen, Stephen DiVerdi, Diego Gutierrez, Aaron Hertzmann; Masia, Belen",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8661657/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "EmotionMap: Visual analysis of video emotional content on a map",
+    "venue": "Journal of Computer Science and Technology",
+    "year": "2020",
+    "id": "Ma2020",
+    "authors": "Ma, Cui Xia; Song, Jian Cheng; Zhu, Qian; Maher, Kevin; Huang, Ze Yuan; Wang, Hong An",
+    "url": "#N/A",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "graph",
+      "timeline",
+      "filter",
+      "sketch",
+      "summarization"
+    ]
+  },
+  {
+    "title": "EmotionCues: Emotion-oriented visual summarization of classroom videos",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2020",
+    "id": "Zeng2021",
+    "authors": "Zeng, Haipeng; Shu, Xinhuan; Wang, Yanbang; Wang, Yong; Zhang, Liguo; Pong, Ting Chuen; Qu, Huamin",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "timeline",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "DanceVis: toward better understanding of online cheer and dance training",
+    "venue": "Journal of Visualization",
+    "year": "2020",
+    "id": "Guo2022",
+    "authors": "Guo, Hong; Zou, Shan Chen; Xu, Yi Lin; Yang, Han; Wang, Jian; Zhang, Hong Xin; Chen, Wei",
+    "url": "https://doi.org/10.1109/TVCG.2018.2889834",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "timeline",
+      "scatter",
+      "filter",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Design guidelines for augmenting short-form videos using animated data visualizations",
+    "venue": "Journal of Visualization",
+    "year": "2020",
+    "id": "Tang2020",
+    "authors": "Tang, Tan; Tang, Junxiu; Hong, Jiayi; Yu, Lingyun; Ren, Peiran; Wu, Yingcai",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "RCEA: Real-time, continuous emotion annotation for collecting precise mobile video ground truth labels",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2020",
+    "id": "Zhang2020",
+    "authors": "Zhang, Tianyi; El Ali, Abdallah; Wang, Chen; Hanjalic, Alan; Cesar, Pablo",
+    "url": "https://doi.org/10.1109/TVCG.2018.2889834",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sketch",
+      "editing"
+    ]
+  },
+  {
+    "title": "Courttime: Generating actionable insights into tennis matches using visual analytics",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2020",
+    "id": "Polk2020",
+    "authors": "Polk, Tom; Jackle, Dominik; Haussler, Johannes; Yang, Jing",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "timeline",
+      "filter",
+      "understanding"
+    ]
+  },
+  {
+    "title": "DeHumor: Visual analytics for decomposing humor",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Wang2022a",
+    "authors": "Wang, Xingbo; Ming, Yao; Wu, Tongshuang; Zeng, Haipeng; Wang, Yong; Qu, Huamin",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "audio",
+      "text",
+      "chart",
+      "filter",
+      "scaling",
+      "emphasis",
+      "understanding"
+    ]
+  },
+  {
+    "title": "E-ffective: A visual analytic system for exploring the emotion and effectiveness of inspirational speeches",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Maher2022",
+    "authors": "Maher, Kevin; Huang, Zeyuan; Song, Jiancheng; Deng, Xiaoming; Lai, Yu Kun; Ma, Cuixia; Wang, Hao; Liu, Yong Jin; Wang, Hongan",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "text",
+      "timeline",
+      "scatter",
+      "filter",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Automatic generation of two-level hierarchical tutorials from instructional makeup videos",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Truong2021",
+    "authors": "Truong, Anh; Chi, Peggy; Salesin, David; Essa, Irfan; Agrawala, Maneesh",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Rubyslippers: Supporting content-based voice navigation for how-to videos",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Chang2021",
+    "authors": "Chang, Minsuk; Huh, Mina; Kim, Juho",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "text",
+      "timeline",
+      "filter",
+      "editing",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Soloist: Generating mixed-initiative tutorials from existing guitar instructional videos through audio processing",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Wang2021",
+    "authors": "Wang, Bryan; Yang, Mengyu; Grossman, Tovi",
+    "url": "https://doi.org/10.1145/3544548.3581266",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "audio",
+      "chart",
+      "timeline",
+      "filter",
+      "editing",
+      "summarization"
+    ]
+  },
+  {
+    "title": "VideoModerator: A risk-aware framework for multimodal video moderation in E-commerce",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Tang2022",
+    "authors": "Tang, Tan; Wu, Yanhong; Wu, Yingcai; Yu, Lingyun; Li, Yuhong",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "timeline",
+      "filter",
+      "scaling",
+      "anomaly"
+    ]
+  },
+  {
+    "title": "SurVizor: visualizing and understanding the key content of surveillance videos",
+    "venue": "Journal of Visualization",
+    "year": "2021",
+    "id": "Sun2022",
+    "authors": "Sun, Guodao; Li, Tong; Liang, Ronghua",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "graph",
+      "timeline",
+      "scatter",
+      "filter",
+      "scaling",
+      "emphasis",
+      "anomaly"
+    ]
+  },
+  {
+    "title": "A visual analytics approach to facilitate the proctoring of online exams",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Li2021",
+    "authors": "Li, Haotian; Xu, Min Xumin; Wang, Yong; Wei, Huan; Qu, Huamin",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "chart",
+      "timeline",
+      "filter",
+      "sketch",
+      "anomaly"
+    ]
+  },
+  {
+    "title": "Fighting fires and powering steam locomotives: Distribution of control and its role in social interaction at tangible interactive museum exhibits",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Clarke2021",
+    "authors": "Clarke, Loraine; Hornecker, Eva; Ruthven, Ian",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "understanding"
+    ]
+  },
+  {
+    "title": "A visual analytics system for exploring, monitoring, and forecasting road traffic congestion",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Lee2020",
+    "authors": "Lee, Chunggi; Kim, Yeonjun; Jin, Seungmin; Kim, Dongmin; Maciejewski, Ross; Ebert, David; Ko, Sungahn",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "sensor",
+      "chart",
+      "filter",
+      "scaling",
+      "summarization"
+    ]
+  },
+  {
+    "title": "ShuttleSpace: Exploring and analyzing movement trajectory in immersive visualization",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Ye2021",
+    "authors": "Ye, Shuainan; Chen, Zhutian; Chu, Xiangtong; Wang, Yifan; Fu, Siwei; Shen, Lejun; Zhou, Kun; Wu, Yingcai",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "filter",
+      "summarization"
+    ]
+  },
+  {
+    "title": "PassVizor: Toward better understanding of the dynamics of soccer passes",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Xie2021",
+    "authors": "Xie, Xiao; Wang, Jiachen; Liang, Hongye; Deng, Dazhen; Cheng, Shoubin; Zhang, Hui; Chen, Wei; Wu, Yingcai",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "filter",
+      "scaling",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Augmenting sports videos with VisCommentator",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Chen2022",
+    "authors": "Chen, Zhutian; Ye, Shuainan; Chu, Xiangtong; Xia, Haijun; Zhang, Hui; Qu, Huamin; Wu, Yingcai",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9552848/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "editing",
+      "editing"
+    ]
+  },
+  {
+    "title": "Eventanchor: Reducing human interactions in event annotation of racket sports videos",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Deng2021",
+    "authors": "Deng, Dazhen; Wu, Jiang; Wang, Jiachen",
+    "url": "#N/A",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "editing",
+      "editing"
+    ]
+  },
+  {
+    "title": "VUSphere: Visual analysis of video utilization in online distance education",
+    "venue": "Proceedings of the IEEE conference on visual analytics science and technology",
+    "year": "2021",
+    "id": "He2018",
+    "authors": "He, Huan; Zheng, Oinghua; Dong, Bo",
+    "url": "https://doi.org/10.1145/3544548.3581266",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "CoUX: Collaborative visual analysis of think-aloud usability test videos for digital interfaces",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Soure2022",
+    "authors": "Soure, Ehsan Jahangirzadeh; Kuang, Emily; Fan, Mingming; Zhao, Jian",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "text",
+      "timeline",
+      "filter",
+      "editing",
+      "understanding"
+    ]
+  },
+  {
+    "title": "From detectables to inspectables: Understanding qalitative analysis of audiovisual data",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Subramanian2021",
+    "authors": "Subramanian, Krishna; Maas, Johannes; Borchers, Jan; Hollan, James",
+    "url": "https://doi.org/10.1145/3313831.3376808",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "timeline",
+      "editing",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Meetingcoach: An intelligent dashboard for supporting efective and inclusive meetings",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Samrose2021",
+    "authors": "Samrose, Samiha; McDuf, Daniel",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445615",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "chart",
+      "timeline",
+      "summarization"
+    ]
+  },
+  {
+    "title": "M2Lens: Visualizing and explaining multimodal models for sentiment analysis",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Wang2022b",
+    "authors": "Wang, Xingbo; He, Jianben; Jin, Zhihua; Yang, Muqiao; Wang, Yong; Qu, Huamin",
+    "url": "#N/A",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "text",
+      "chart",
+      "scatter",
+      "filter",
+      "scaling",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Efects of semantic segmentation visualization on trust, situation awareness, and cognitive load in highly automated vehicles",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Colley2021",
+    "authors": "Colley, Mark; Eder, Benjamin; Rixen, Jan Ole; Rukzio, Enrico",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445351",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Litle road driving hud: Heads-up display complexity influences drivers' perceptions of automated vehicles",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Currano2021",
+    "authors": "Currano, Rebecca; Park, So Yeon; Moore, Dylan; Lyons, Kent; Sirkin, David",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "augmentation"
+    ]
+  },
+  {
+    "title": "TIVEE: Visual exploration and explanation of badminton tactics in immersive visualizations",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Chu2022",
+    "authors": "Chu, Xiangtong; Xie, Xiao; Ye, Shuainan; Lu, Haolin; Xiao, Hongguang; Yuan, Zeqing; Chen, Zhutian; Zhang, Hui; Wu, Yingcai",
+    "url": "https://ieeexplore.ieee.org/abstract/document/9557225/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "3D",
+      "filter",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "A human-ai collaborative approach for clinical decision making on rehabilitation assessment",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Lee2021",
+    "authors": "Lee, Min Hun; Siewiorek, Daniel P.; Smailagic, Asim",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445472",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "timeline",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Affectivespotlight: Facilitating the communication of affective responses from audience members during online presentations",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Murali2021",
+    "authors": "Murali, Prasanth; Hernandez, Javier; McDuff, Daniel; Rowan, Kael; Suh, Jina; Czerwinski, Mary",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "filter",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Beyond show of hands: Engaging viewers via expressive and scalable visual communication in live streaming",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Chung2021",
+    "authors": "Chung, John Joon Young; Shin, Hijung Valentina; Xia, Haijun; Wei, Li Yi",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "filter",
+      "editing"
+    ]
+  },
+  {
+    "title": "Communication skills training intervention based on automated recognition of nonverbal signals",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Pereira2021",
+    "authors": "Pereira, Monica; Hone, Kate",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "timeline",
+      "sketch",
+      "understanding"
+    ]
+  },
+  {
+    "title": "CoUX: Collaborative visual analysis of think-aloud usability test videos for digital interfaces",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Soure2022",
+    "authors": "Soure, Ehsan Jahangirzadeh; Kuang, Emily; Fan, Mingming; Zhao, Jian",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "text",
+      "filter",
+      "editing",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Hapticseer: A multi-channel, black-box, platform-agnostic approach to detecting video game events for real-time haptic feedback",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Lin2021",
+    "authors": "Lin, Yu Hsin; Wang, Yu Wei; Ku, Pin Sung; Cheng, Yun Ting; Hsu, Yuan Chih; Tsai, Ching Yi; Chen, Mike Y.",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "sensor",
+      "filter",
+      "editing",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Litle road driving hud: Heads-up display complexity influences drivers' perceptions of automated vehicles",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Currano2021",
+    "authors": "Currano, Rebecca; Park, So Yeon; Moore, Dylan; Lyons, Kent; Sirkin, David",
+    "url": "https://doi.org/10.1109/TVCG.2021.3049419",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Meetingcoach: An intelligent dashboard for supporting efective and inclusive meetings",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Samrose2021",
+    "authors": "Samrose, Samiha; McDuf, Daniel",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445615",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "chart",
+      "timeline",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Mindless atractor: A false-positive resistant intervention for drawing atention using auditory perturbation",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Arakawa2021",
+    "authors": "Arakawa, Riku; Yakura, Hiromu",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "timeline",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Mirrorblender: Supporting hybrid meetings with a malleable video-conferencing system",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Grnbaek2021",
+    "authors": "Grnbaek, Jens Emil; Saatci, Banu",
+    "url": "https://doi.org/10.1007/s12650-021-00783-x",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sketch",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "RallyComparator: visual comparison of the multivariate and spatial stroke sequence in table tennis rally",
+    "venue": "Journal of Visualization",
+    "year": "2021",
+    "id": "Lan2022",
+    "authors": "Lan, Ji; Wang, Jiachen; Shu, Xinhuan; Zhou, Zheng; Zhang, Hui; Wu, Yingcai",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "emphasis",
+      "understanding"
+    ]
+  },
+  {
+    "title": "SPinPong - virtual reality table tennis skill acquisition using visual, haptic and temporal cues",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2021",
+    "id": "Wu2021",
+    "authors": "Wu, Erwin; Piekenbrock, Mitski; Nakumura, Takuto; Koike, Hideki",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "sketch",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "Toward automatic audio description generation for accessible videos",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Wang2021a",
+    "authors": "Wang, Yujia; Liang, Wei",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445347",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "audio",
+      "timeline",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Understanding analytics needs of video game streamers",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2021",
+    "id": "Mallari2021",
+    "authors": "Mallari, Keri; Williams, Spencer; Hsieh, Gary",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445320",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "understanding"
+    ]
+  },
+  {
+    "title": "Visualization system for fire detection in the video sequences",
+    "venue": "Scientific Visualization",
+    "year": "0",
+    "id": "Laptev2021",
+    "authors": "Laptev, N. V.; Laptev, V. V.; Gerget, O. M.; Kravchenko, A. A.; Kolpashchikov, D. Yu",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "anomaly"
+    ]
+  },
+  {
+    "title": "GestureLens: Visual analysis of gestures in presentation videos",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2022",
+    "id": "zeng2022gesturelens",
+    "authors": "Zeng, Haipeng; Wang, Xingbo; Wang, Yong; Wu, Aoyu; Pong, Ting-Chuen; Qu, Huamin",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "timeline",
+      "scaling",
+      "understanding"
+    ]
+  },
+  {
+    "title": "PoseCoach: A customizable analysis and visualization system for video-based running coaching",
+    "venue": "IEEE transactions on visualization and computer graphics",
+    "year": "2022",
+    "id": "Liu2022",
+    "authors": "Liu, Jingyuan; Saquib, Nazmus; Chen, Zhutian; Kazi, Rubaiat Habib; Wei, Li Yi; Fu, Hongbo; Tai, Chiew Lan",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "3D",
+      "editing",
+      "understanding"
+    ]
+  },
+  {
+    "title": "Sporthesia: Augmenting sports videos using natural language",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2022",
+    "id": "Chen2023a",
+    "authors": "Chen, Zhutian; Yang, Qisen; Xie, Xiao; Beyer, Johanna; Xia, Haijun; Wu, Yingcai; Pfister, Hanspeter",
+    "url": "https://doi.org/10.1007/s12650-021-00772-0",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "text",
+      "filter",
+      "editing",
+      "editing"
+    ]
+  },
+  {
+    "title": "The quest for : Embedded visualization for augmenting basketball game viewing experiences",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2022",
+    "id": "Lin2023",
+    "authors": "Lin, Tica; Chen, Zhutian; Yang, Yalong; Chiappalupi, Daniele; Beyer, Johanna; Pfister, Hanspeter",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "chart",
+      "sketch",
+      "augmentation"
+    ]
+  },
+  {
+    "title": "TVVS: A top-view visualization system from broadcasting soccer video",
+    "venue": "Multimedia tools and applications",
+    "year": "2022",
+    "id": "Sanyal2022",
+    "authors": "Sanyal, Samriddha",
+    "url": "https://link.springer.com/article/10.1007/s11042-022-12605-9",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "summarization"
+    ]
+  },
+  {
+    "title": "Investigating the sketchplan: A novel way of identifying tactical behavior in massive soccer datasets",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2023",
+    "id": "Seebacher2023",
+    "authors": "Seebacher, Daniel; Polk, Tom; Janetzko, Halldor; Keim, Daniel A.; Schreck, Tobias; Stein, Manuel",
+    "url": "https://doi.org/",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "editing",
+      "sketch",
+      "understanding"
+    ]
+  },
+  {
+    "title": "RipViz: Finding rip currents by learning pathline behavior",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2023",
+    "id": "Silva2023",
+    "authors": "de Silva, Akila; Zhao, Mona; Stewart, Donald; Hasan, Fahim; Dusek, Gregory; Davis, James; Pang, Alex",
+    "url": "https://doi.org/10.1109/TMM.2008.2009703",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "anomaly"
+    ]
+  },
+  {
+    "title": "iBall: Augmenting basketball videos with gaze-moderated embedded visualizations",
+    "venue": "Proceedings of the CHI conference on human factors in computing systems",
+    "year": "2023",
+    "id": "Chen2023",
+    "authors": "Chen, Zhutian; Yang, Qisen; Shan, Jiarui; Lin, Tica; Beyer, Johanna; Xia, Haijun; Pfister, Hanspeter",
+    "url": "https://doi.org/10.1109/TVCG.2021.3049419",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "sensor",
+      "editing",
+      "editing"
+    ]
+  },
+  {
+    "title": "Anchorage: Visual analysis of satisfaction in customer service videos via anchor events",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "2023",
+    "id": "Wong2023",
+    "authors": "Wong, Kam Kwai; Wang, Xingbo; Wang, Yong; He, Jianben; Zhang, Rong; Qu, Huamin",
+    "url": "https://doi.org/10.1109/TVCG.2021.3049419",
+    "reference": "",
+    "Keywords": "",
+    "categories": [
+      "image",
+      "audio",
+      "text",
+      "chart",
+      "timeline",
+      "filter",
+      "scaling",
+      "anomaly"
+    ]
+  }
+]

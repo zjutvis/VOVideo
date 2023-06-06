@@ -1,0 +1,24 @@
+<svg width="302" height="242" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <rect x="0" y="0" width="302" height="242"/>
+        </clipPath>
+        <image width="64" height="64"
+               xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCABAAEADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD32vrOiivOwmE+q83vXvboeVgcD9S5veve3S21/MKKKK9E9UKKK+TK87F4v6ry+7e9+p5WOx31Ll92979bbW8gooor40+BPrOiiiv0M/Uwoor5MrzsXi/qvL7t736nlY7HfUuX3b3v1ttbyCiiivjT4EK+s6KK+ywmE+q83vXvboffYHA/Uub3r3t0ttfzCiivkyjF4v6ry+7e9+oY7HfUuX3b3v1ttbyCiiivjT4EK+s6KK+ywmE+q83vXvboffYHA/Uub3r3t0ttfzCiiivRPVPkyiiivzw/LAr6zoor7LCYT6rze9e9uh99gcD9S5veve3S21/MKKKK9E9UKKK+TK87F4v6ry+7e9+p5WOx31Ll92979bbW8j//2Q=="
+               preserveAspectRatio="none" id="img1"></image>
+        <pattern width="64" height="64" patternUnits="userSpaceOnUse" id="pattern2" overflow="hidden"
+                 patternTransform="matrix(0.125 0 0 0.125 112 24)">
+            <use width="100%" height="100%" xlink:href="#img1"></use>
+        </pattern>
+    </defs>
+    <g clip-path="url(#clip0)">
+        <path d="M7.49996 44.9145C7.49996 23.7052 24.6627 6.51168 45.8339 6.51168L259.166 6.51168C280.337 6.51168 297.5 23.7052 297.5 44.9145L297.5 198.521C297.5 219.731 280.337 236.924 259.166 236.924L45.8339 236.924C24.6627 236.924 7.49996 219.731 7.49996 198.521Z"
+              stroke="#84CE84" stroke-width="2.99669" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+        <rect x="22" y="195.35" width="261" height="13.0233" fill="#84CE84"/>
+        <rect x="59" y="108.194" width="34.0001" height="76.1363" fill="#84CE84"/>
+        <rect x="114.5" y="29.553" width="34.0001" height="155.278" stroke="#84CE84" stroke-width="5.32745" stroke-miterlimit="8"
+              fill="url(#pattern2)"/>
+        <rect x="165" y="84.1507" width="35" height="100.179" fill="#84CE84"/>
+        <rect x="217" y="132.237" width="34.0001" height="52.0932" fill="#84CE84"/>
+    </g>
+</svg>

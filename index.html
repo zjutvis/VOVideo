@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation">
+	<meta name="author" content="Gopher">
+
+	<title>VoVideo Survey</title>
+	<!-- Bootstrap -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<!-- Optional Bootstrap theme (for fancy look) -->
+	<link href="css/bootstrap-theme.min.css" rel="stylesheet">
+
+	<!-- noUiSlider -->
+	<link href="css/jquery.nouislider.min.css" rel="stylesheet">
+
+	<!-- Custom styles used for this page -->
+	<link href="css/custom.css" rel="stylesheet">
+
+</head>
+
+<body>
+	<!-- Static navbar -->
+	<div class="navbar navbar-default navbar-static-top custom-navbar" role="navigation">
+		<div class="container-fluid custom-navbar-container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+
+				<div class="navbar-header-container">
+					<div class="navbar-header-top">
+						<span class="navbar-brand-title">Video Visualization and Visual Analytics: A Task-Based and Application-Driven Investigation</span>
+					</div>
+
+					<div class="navbar-header-bottom">
+						Provided by ZJUTVIS group
+					</div>
+					<div>
+						<ul class="nav navbar-nav">
+							<li>
+								<a href="#" data-toggle="modal" data-target="#summaryTableModal">Summary</a>
+							</li>
+
+							<li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Other surveys <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li class="dropdown-header">Our Visual Surveys</li>
+                                <li>
+                                    <a href="https://zjutvis.github.io/MPMSurvey" target="_blank">MPM Survey</a>
+                                </li>
+                                <li>
+                                    <a href="https://zjutvis.github.io/OL4VIS" target="_blank">OL4VIS Survey</a>
+                                </li>
+                                <li>
+                                    <a href="https://zjutvis.github.io/MMDM" target="_blank">MMDM Survey</a>
+                                </li>
+								<li>
+                                    <a href="https://zjutvis.github.io/VOBGP" target="_blank">VOBGP Survey</a>
+                                </li>
+                            </ul>
+                        </li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!-- <div class="navbar-collapse collapse custom-navbar-collapse">
+				<ul class="nav navbar-nav navbar-right">
+
+					<li>
+						<a href="#" data-toggle="modal" data-target="#summaryTableModal">Summary</a>
+					</li>
+				</ul>
+			</div> -->
+			<!--/.nav-collapse -->
+		</div>
+	</div>
+
+
+	<!-- Main content wrapper -->
+	<table class="content-wrapper">
+		<tr class="content-row">
+			<td class="sidebar-fixed">
+				<div class="sidebar-container">
+					<div id="filtersPanel" class="panel panel-default small-bottom-margin">
+						<div class="panel-body">
+							<h5 class="entries-count-label panel-label">Techniques displayed:</h5>
+							<div id="displayedEntriesCount"></div>
+						</div>
+
+						<ul class="list-group">
+							<li class="list-group-item">
+								<h5 class="inline-block panel-label">Search:</h5>
+								<div class="btn-group btn-group-justified">
+									<input id="searchField" type="search" class="form-control">
+									<span class="glyphicon glyphicon-remove search-clear"></span>
+								</div>
+							</li>
+						</ul>
+
+						<ul class="list-group">
+							<li class="list-group-item">
+								<h5 class="inline-block panel-label">Time filter:</h5>
+								<div class="time-filter-label-container">
+									<span id="timeFilterMin" class="time-filter-min"></span>
+									<span id="timeFilterMax" class="time-filter-max"></span>
+								</div>
+								<div class="time-filter-container">
+									<div id="timeFilter"></div>
+								</div>
+								<div id="timeChart" class="time-chart">
+								</div>
+							</li>
+						</ul>
+
+						<ul id="categoriesList" class="list-group">
+						</ul>
+
+					</div>
+				</div>
+			</td>
+
+			<td>
+				<div class="container-fluid">
+					<div class="row-container">
+
+						<div class="row">
+							<div id="entriesContainer" class="col-md-12">
+								<p class="text-muted">Here comes the content</p>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</td>
+		</tr>
+	</table>
+
+	<div class="container-fluid">
+		<div class="row-container">
+			<div class="footer">
+				<hr>
+				<p class="text-muted credit no-top-margin no-bottom-margin">
+					© ZJUTVIS group 2022. All rights for the technique images belong to their respective owners.
+				</p>
+				<p class="text-muted credit no-top-margin no-bottom-margin">
+					Last updated: May 16, 2022
+				</p>
+				<!-- <p class="text-muted credit no-top-margin no-bottom-margin">
+					This website is using Google Analytics (for statistical purposes only) and cookies (for dismissible
+					dialogs only).
+				</p> -->
+				<p>This website is inspired by <a href="https://textvis.lnu.se/">Text Visualization Browser</a></p>
+			</div>
+		</div>
+	</div>
+
+	<!-- Entry details modal -->
+	<div id="entryDetailsModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="entryDetailsTitle"
+		aria-hidden="true" data-backdrop="static">
+		<div class="modal-dialog modal-wide">
+			<div class="modal-content">
+				<div class="modal-header" hidden="true"></div>
+				<div class="modal-body">
+					<div class="media">
+						<div>
+							<span class="pull-left">
+								<img id="entryDetailsThumbnail" class="media-object thumbnail200">
+							</span>
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>	
+						</div>
+						<div class="media-body">
+							<!-- <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> -->
+							<h4 id="entryDetailsTitle" class="media-heading entry-details-field entry-details-title">
+							</h4>
+							<h5 id="entryDetailsAuthors" class="entry-details-field"></h5>
+							<div id="entryDetailsCategories" class="entry-details-field"></div>
+							<div class="vertical-delimiter"></div>
+							<h6 id="entryDetailsReference" class="entry-details-field"></h6>
+							<h6 id="entryDetailsUrl" class="entry-details-field"></h6>
+							<h6 id="entryDetailsBibtex" class="entry-details-field"></h6>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer" hidden="true"></div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+
+	<!-- Summary table modal -->
+	<div id="summaryTableModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="summaryTableTitle"
+		aria-hidden="true" data-backdrop="static">
+		<div class="modal-dialog modal-max">
+			<div class="modal-content">
+				<div class="modal-header" hidden="true"></div>
+				<div class="modal-body">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h3>Survey summary</h3>
+					<div id="summaryTableContainer"></div>
+				</div>
+				<div class="modal-footer" hidden="true"></div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.cookie.js"></script>
+
+	<!-- Include all compiled plugins -->
+	<script src="js/bootstrap.min.js"></script>
+
+	<!-- noUiSlider -->
+	<script src="js/jquery.nouislider.min.js"></script>
+
+	<!-- D3 (used for statistics diagram) -->
+	<script src="js/d3.v3.min.js"></script>
+	<!-- Colorbrewer colors (used for statistics diagram) -->
+	<script src="js/colorbrewer.js"></script>
+
+	<!-- Custom JS code -->
+	<script src="js/visbrowser.js"></script>
+</body>
+
+</html>
