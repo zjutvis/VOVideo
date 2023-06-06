@@ -6,8 +6,10 @@ descriptions of the techniques within each category. Drawing upon a comprehensiv
 critical evaluation and propose potential avenues for future research. Additionally, we have developed an web-based survey browser for
 convenient exploration and examination of our created classification framework, as well as the associated scholarly articles.
 
+##  Survey Taxonomy
+![77e5754cf8359f91d4dad3cbbf4b452](https://github.com/zjutvis/VOVideo/assets/63944124/1ef7ba2f-07bb-4a0c-92f7-c2747a2dcf06)
+
 ## web-based survey browser
 ![3efadbd55629e2a9493257d67570c05](https://github.com/zjutvis/VOVideo/assets/63944124/57265fea-1e24-4766-b3a0-3204c5a0e994)
 
-##  Survey Taxonomy
-![77e5754cf8359f91d4dad3cbbf4b452](https://github.com/zjutvis/VOVideo/assets/63944124/1ef7ba2f-07bb-4a0c-92f7-c2747a2dcf06)
+
